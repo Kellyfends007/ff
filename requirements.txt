@@ -1,6 +1,5 @@
 AdvancedHTTPServer==2.1.0
 ajpy==0.0.4
-alembic==1.0.0.dev0
 aniso8601==4.1.0
 asn1crypto==0.24.0
 backdoor-factory==0.0.0
